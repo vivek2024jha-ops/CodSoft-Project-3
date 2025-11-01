@@ -1,1 +1,1 @@
-# CodSoft-Project-3
+# CodSoft-Project-3 The **To-Do List Program** is a Python app that helps users **add, view, update, and delete tasks**. It allows easy task management and saves data using **file handling** for future use.
